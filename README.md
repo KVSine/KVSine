@@ -1,6 +1,6 @@
 ## Hi ✨👋
 
-Hi! I'm Sine, a 2nd year undergrad at CUHK </br>
+Hi! I'm Sine, a 3nd year undergrad at CUHK </br>
 📬sine.pitchapaw@gmail.com
 
 # 💻 Tech Stack:
